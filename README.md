@@ -13,7 +13,6 @@ Laravel made the Stripe Payment Gateway integration process easier. In this proj
 <br>DB_DATABASE=your_database
 <br>DB_USERNAME=your_database_username
 <br>DB_PASSWORD=your_database_password
-
 <br>STRIPE_PUBLISHABLE_KEY=your_stripe_publishable_key
 <br>STRIPE_SECRET_KEY=your_stripe_secret_key
 <br>STRIPE_CURRENCY=your_stripe_stripe_currency
